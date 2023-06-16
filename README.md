@@ -1,6 +1,8 @@
 # Howdy, I'm Mike! 👋
 
-🚀 I help **YOU** make content & grow your brand!
+🚀 Helping 🫵🏼 YOU amplify your impact w/ content, funnels & community-building
+
+🧠Sharing on life, business & buying real estate 🏡 
 
 👨‍👩‍👧‍👧 Girl Dad
 
