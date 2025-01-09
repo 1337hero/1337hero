@@ -7,4 +7,4 @@
 
 ---
 
-![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=1337hero&hide=contribs,prs)
+![Mike's GitHub stats](https://github-stats-woad-three.vercel.app/api?username=1337hero&hide=contribs,prs)
