@@ -1,6 +1,8 @@
 # Howdy, I'm Mike! 👋
 🎓 Dropout→Programmer→7-figure Investor 
+
 👀 Owner: 1337Hero & HometownInvestors & Invstorly
+
 💻 Self taught coder, flipping houses & dunking on mediocrity!
 
 
