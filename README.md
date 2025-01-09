@@ -1,8 +1,10 @@
 # Howdy, I'm Mike! 👋
+🎓 Dropout→Programmer→7-figure Investor 
+👀 Owner: 1337Hero & HometownInvestors & Invstorly
+💻 Self taught coder, flipping houses & dunking on mediocrity!
 
 
-[www.mikekey.com](https://mikekey.com)
 
 ---
 
-I make stuff & invest in things. Living my best life in sunny Idaho.
+![Mike's GitHub stats](https://github-readme-stats.vercel.app/api?username=1337hero&hide=contribs,prs)
