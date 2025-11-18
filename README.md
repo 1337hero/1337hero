@@ -1,4 +1,4 @@
-# Mike Key
+# Mike Key (aka 1337Hero)
 
 Frontend developer with 20+ years building fast, maintainable web applications.  
 I work with React, WordPress, and full-stack infrastructure to ship reliable solutions.
