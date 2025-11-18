@@ -1,42 +1,21 @@
-# 👋 Hey, I’m Mike Key (1337hero)
+# Mike Key
 
-Senior Frontend Developer with **18+ years** of experience building high-performance, user-friendly web solutions.  
-I combine frontend excellence with backend and DevOps chops to move fast, deploy cleanly, and solve real problems.
+Frontend developer with 20+ years building fast, maintainable web applications.  
+I work with React, WordPress, and full-stack infrastructure to ship reliable solutions.
 
----
+## What I Do
 
-## 🔧 My Tech & Infra Stack
+I build and deploy production web applications—from React frontends to WordPress sites to the servers they run on. I've worked across hospitality, real estate, and B2B marketing systems, typically handling everything from initial architecture to deployment and optimization.
 
-- **Frontend / UI / JS**: React, Redux, Next.js, TypeScript, JavaScript, HTML5, CSS3, TailwindCSS, Bootstrap  
-- **Backend / CMS**: WordPress (themes / plugins / site builds), PHP, Node.js / Express.js, API development  
-- **DevOps / Deployment**: Linux servers (DigitalOcean droplets), Caddy for reverse proxy / TLS / lightweight routing, Vercel for front-end hosting, S3 (or object storage) for assets / backend static paths, systemd, performance optimization  
+**Stack:** React, TypeScript, WordPress, PHP, Node.js, Linux servers, Caddy, Vercel  
+**Approach:** Deep work sessions, clean code, efficient deployment pipelines
 
----
+## Current Work
 
-## 💥 What Sets Me Apart
+Freelancing through my company 1337 Hero, focused on frontend development and full-stack solutions for clients who need someone to own the entire technical delivery—not just write code.
 
-- Versatility: able to move between React frontend, WordPress / PHP CMS, server setup, deployment pipelines  
-- DevOps experience: not just coding but owning the full stack & deployment stack (servers, TLS, reverse proxy, hosting)  
-- Optimization: performance across stack, clean code, good UX, deployment speed & reliability  
+## Contact
 
----
-
-## 🌱 Beyond Code
-
-- Off-grid / sustainability projects / Outdoor adventures
-- Reading old books, lifting heavy things, building tools & environments that feel both rugged & elegant  
-
----
-
-## 📫 Let’s Collaborate
-
-If you want someone who can:
-
-- Build fast, reactive, & secure frontends  
-- Modernize or integrate a CMS / backend  
-- Handle deployment, server config, infrastructure so you don’t worry about it  
-
-Reach out:
-
-- 📧 mike@1337hero.com  
-- 🌐 [1337hero.com](https://1337hero.com)  
+- **Email:** mike@1337hero.com  
+- **Web:** [1337hero.com](https://1337hero.com)  
+- **Twitter/X:** [@justmikekey](https://x.com/justmikekey)
