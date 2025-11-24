@@ -1,21 +1,27 @@
 # Mike Key (aka 1337Hero)
 
-Frontend developer with 20+ years building fast, maintainable web applications.  
-I work with React, WordPress, and full-stack infrastructure to ship reliable solutions.
+20+ year senior dev: Shipping fast, reliable web apps while dodging hype cycles. Full-time freelancer, indie builder, and 3x dad—blending code with real life (real estate, off-grid adventures, old books, and fitness).
 
 ## What I Do
 
-I build and deploy production web applications—from React frontends to WordPress sites to the servers they run on. I've worked across hospitality, real estate, and B2B marketing systems, typically handling everything from initial architecture to deployment and optimization.
+I own the full stack: From frontends to self-hosted infrastructure. Built systems for hospitality, real estate, telecom and B2B marketing—handling architecture, deployment, and optimization end-to-end. No "prompt monkey" here; now I teach indies how to 10× with AI like a seasoned engineer.
 
-**Stack:** React, TypeScript, WordPress, PHP, Node.js, Linux servers, Caddy, Vercel  
-**Approach:** Deep work sessions, clean code, efficient deployment pipelines
+## Key Projects
 
-## Current Work
+- **[FasterChat.ai](https://fasterchat.ai)**: Blazing-fast, self-hosted AI chat frontend. Offline-first, works with Ollama/Groq/OpenAI. (GitHub: [faster-chat](https://github.com/1337hero/faster-chat))
+- **[Prestlo.com](https://prestlo.com)**: Invoicing tool that doesn't suck—streamlined for freelancers and indies. (In stealth; more soon.)
+- **[Talos](https://github.com/1337hero/talos)**: Rust CLI for scanning codebases and generating JSON summaries. Perfect for feeding context to LLMs in large projects.
+- Other builds: Custom TTS integrations, full-stack real estate dashboards, and experiments ditching the cloud for VPS freedom.
 
-Freelancing through my company 1337 Hero, focused on frontend development and full-stack solutions for clients who need someone to own the entire technical delivery—not just write code.
+## Current Focus
 
-## Contact
+Freelancing via 1337Hero: Delivering frontend/full-stack solutions for clients who want ownership, not outsourcing headaches. Sharing AI workflows for indie devs—weekly threads on X every Tuesday.
+
+## Let's Connect
 
 - **Email:** mike@1337hero.com  
-- **Web:** [1337hero.com](https://1337hero.com)  
-- **Twitter/X:** [@justmikekey](https://x.com/justmikekey)
+- **Site:** [1337hero.com](https://1337hero.com)  
+- **X/Twitter:** [@1337hero](https://x.com/1337hero) (Threads on AI for indies)  
+- **GitHub:** You're here—star a repo if it vibes.
+
+DMs open for collabs, mentoring, or just trading war stories from 20 years in the trenches.
