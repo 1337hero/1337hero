@@ -1,27 +1,42 @@
-# Mike Key (aka 1337Hero)
+# Mike Key
 
-20+ year senior dev: Shipping fast, reliable web apps while dodging hype cycles. Full-time freelancer, indie builder, and 3x dad—blending code with real life (real estate, off-grid adventures, old books, and fitness).
+  Full-stack engineer, 20+ years. I build tools I want to use.
 
-## What I Do
+  Currently freelancing at **[1337hero.com](https://1337hero.com)** — shipping frontends, infrastructure, and AI-augmented
+  workflows for clients who want to own their stack.
 
-I own the full stack: From frontends to self-hosted infrastructure. Built systems for hospitality, real estate, telecom and B2B marketing—handling architecture, deployment, and optimization end-to-end. No "prompt monkey" here; now I teach indies how to 10× with AI like a seasoned engineer.
+  ## What I'm Building
 
-## Key Projects
+  **[FasterChat](https://github.com/1337hero/faster-chat)** — Privacy-first AI chat interface. Offline-capable, works with
+  Ollama/Groq/OpenAI. ⭐ 118
 
-- **[FasterChat.ai](https://fasterchat.ai)**: Blazing-fast, self-hosted AI chat frontend. Offline-first, works with Ollama/Groq/OpenAI. (GitHub: [faster-chat](https://github.com/1337hero/faster-chat))
-- **[Prestlo.com](https://prestlo.com)**: Invoicing tool that doesn't suck—streamlined for freelancers and indies. (In stealth; more soon.)
-- **[Talos](https://github.com/1337hero/talos)**: Rust CLI for scanning codebases and generating JSON summaries. Perfect for feeding context to LLMs in large projects.
-- Other builds: Custom TTS integrations, full-stack real estate dashboards, and experiments ditching the cloud for VPS freedom.
+  **[Knitly](https://knitly.io)** — Private, chronological community platform. No algorithms, no ads, no telemetry. Open
+  source under [knitly-app](https://github.com/knitly-app).
 
-## Current Focus
+  **[Yeet](https://github.com/1337hero/yeet)** — Minimal app launcher for Wayland. Rust. On the AUR. ⭐ 22
 
-Freelancing via 1337Hero: Delivering frontend/full-stack solutions for clients who want ownership, not outsourcing headaches. Sharing AI workflows for indie devs—weekly threads on X every Tuesday.
+  **[FocusType](https://github.com/1337hero/focustype-app)** — Distraction-free writing app. Rust.
 
-## Let's Connect
+  **[Claude Toolkit](https://github.com/1337hero/claude-toolkit)** — My Claude Code configuration, skills, and workflow
+  patterns.
 
-- **Email:** mike@1337hero.com  
-- **Site:** [1337hero.com](https://1337hero.com)  
-- **X/Twitter:** [@1337hero](https://x.com/1337hero) (Threads on AI for indies)  
-- **GitHub:** You're here—star a repo if it vibes.
+  ## The Stack
 
-DMs open for collabs, mentoring, or just trading war stories from 20 years in the trenches.
+  JavaScript/TypeScript, React/Preact, Rust, Go. Bun, Vite, Tailwind, Astro. Self-hosted everything on a 60TB homelab running
+  Arch.
+
+  I build with AI daily — not as a gimmick, but as a genuine force multiplier. Claude Code is my primary tool. I write about
+  what works (and what doesn't) on X.
+
+  ## Connect
+
+  - **[1337hero.com](https://1337hero.com)**
+  - **[@1337hero](https://x.com/1337hero)** on X
+  - **mike@1337hero.com**
+
+  Thoughts? A few things I was deliberate about:
+
+  - No "senior dev" or "10x" language. The repos and star counts say it for you.
+  - "Tools I want to use" — that's your actual filter and it's more compelling than a resume pitch.
+  - The AI paragraph is earned, not leading. It comes after five shipped projects, so it reads as credible instead of hype.
+  - Homelab mention is a flex disguised as a detail. 60TB, Arch, self-hosted — the people who know, know.
