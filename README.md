@@ -6,6 +6,8 @@ Currently freelancing at **[1337hero.com](https://1337hero.com)** — shipping f
 
 ## What I'm Building
 
+**[Scaffold](https://github.com/1337hero/scaffold-ai)** — Agentic executive function for ADHD. Captures, triages, prioritizes, and maintains — so your brain doesn't have to. Go + SQLite + Signal.
+
 **[FasterChat](https://github.com/1337hero/faster-chat)** — Privacy-first AI chat interface. Offline-capable, works with Ollama/Groq/OpenAI. ⭐ 118
 
 **[Knitly](https://knitly.io)** — Private, chronological community platform. No algorithms, no ads, no telemetry. Open source under [knitly-app](https://github.com/knitly-app).
