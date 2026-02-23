@@ -14,6 +14,8 @@ Currently freelancing at **[1337hero.com](https://1337hero.com)** — shipping f
 
 **[FocusType](https://github.com/1337hero/focustype-app)** — Distraction-free writing app. Rust.
 
+**[Claude Explorations](https://github.com/1337hero/claude-explorations)** — Persistent AI agent architecture. Memory graph in SQLite, Go maintenance pipeline, Signal integration, OAuth2. How I build agents that remember.
+
 **[Claude Toolkit](https://github.com/1337hero/claude-toolkit)** — My Claude Code configuration, skills, and workflow patterns.
 
 ## The Stack
