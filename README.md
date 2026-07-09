@@ -1,33 +1,35 @@
 # Mike Key
 
-Full-stack engineer, 20+ years. I build tools I want to use.
+Senior software engineer, 20+ years. Solo agency owner. Self-taught (9th grade dropout, no regrets).
 
-Currently freelancing at **[1337hero.com](https://1337hero.com)** — shipping frontends, infrastructure, and AI-augmented workflows for clients who want to own their stack.
+Going hard on local AI. 3x AMD AI Pro R9700's (96GB VRAM) on Arch Linux. Anti-hype, pro-receipts. If you can't run it on your own hardware, do you own it?
 
 ## What I'm Building
 
-**[Scaffold](https://github.com/1337hero/scaffold)** — Agentic executive function for ADHD. Captures, triages, prioritizes, and maintains — so your brain doesn't have to. Go + SQLite + Signal.
+**[FasterChat](https://github.com/1337hero/faster-chat)** — Blazing fast, privacy-first AI chat interface. Preact + Hono. Self-hostable. Open WebUI but actually open. ⭐ 152
 
-**[FasterChat](https://github.com/1337hero/faster-chat)** — Privacy-first AI chat interface. Offline-capable, works with Ollama/Groq/OpenAI. ⭐ 118
+**[ScaffoldBench](https://github.com/1337hero/scaffold-bench)** — Opinionated local LLM benchmark. Tests real engineering tasks, not trivia questions. Because wall-clock time to a useful answer is what actually matters.
 
-**[Knitly](https://knitly.io)** — Private, chronological community platform. No algorithms, no ads, no telemetry. Open source under [knitly-app](https://github.com/knitly-app).
+**[Scaffold](https://github.com/1337hero/scaffold)** — A LifeOS for ADHD. State machine, not a chatbot. Go + SQLite. Captures, triages, decomposes, prioritizes — so your brain doesn't have to.
 
-**[Yeet](https://github.com/1337hero/yeet)** — Minimal app launcher for Wayland. Rust. On the AUR. ⭐ 22
+**[YTNote](https://github.com/1337hero/YTNote)** — Turns a YouTube video into a timestamped transcript with AI research notes. One markdown file.
 
-**[FocusType](https://github.com/1337hero/focustype-app)** — Distraction-free writing app. Rust.
+**[Yeet](https://github.com/1337hero/yeet)** — Minimal app launcher for Wayland. Rust. On the AUR. ⭐ 23
 
-**[Claude Explorations](https://github.com/1337hero/claude-explorations)** — Persistent AI agent architecture. Memory graph in SQLite, Go maintenance pipeline, Signal integration, OAuth2. How I build agents that remember.
+**[Homelab Homepage](https://github.com/1337hero/homelab-homepage)** — Lightweight startpage for your homelab. System stats, calendar, service directory.
 
-**[Claude Toolkit](https://github.com/1337hero/claude-toolkit)** — My Claude Code configuration, skills, and workflow patterns.
+**[Claude Explorations](https://github.com/1337hero/claude-explorations)** — Persistent AI agent architecture. Memory graph in SQLite, Go maintenance pipeline, Signal integration. How I build agents that remember. ⭐ 3
 
 ## The Stack
 
-JavaScript/TypeScript, React/Preact, Rust, Go. Bun, Vite, Tailwind, Astro.
+Arch Linux. AMD ROCm. llama.cpp. Preact. Hono. Go. SQLite. Caddy. Bun. If it's bloated, I probably ripped it out and replaced it with something lighter.
 
-Self-hosted everything — 60TB RAID6, dual RX 7900 XTX, Arch Linux, running Ollama, Plex, and too many Docker containers. I write about the homelab on X alongside AI workflows and what I'm building.
+Self-hosted everything. I write about the homelab, local AI, and agent architecture on X and at [mikekey.com](https://mikekey.com).
 
 ## Connect
 
-- **[1337hero.com](https://1337hero.com)**
+- **[mikekey.com](https://mikekey.com)** — A notebook since 2006
 - **[@1337hero](https://x.com/1337hero)** on X
-- **mike@1337hero.com**
+- **[scaffoldbenchmark.com](https://scaffoldbenchmark.com)**
+
+I build infrastructure to protect what I value. FasterChat because your AI conversations shouldn't live on someone else's server. Scaffold because ADHD brains need external executive function. ScaffoldBench because the local model space needs honest benchmarks, not vibes.
